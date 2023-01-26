@@ -1,4 +1,19 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+Its a landing page for The Metropolitan Museum of Art or The MET.
+-[MET landing](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET)
+
+Link to preview on github pages:
+- [DEMO LINK](https://julyapetrovskaya.github.io/The-Met-landing)
+)
+
+Technologies used:
+1. HTML markup;
+2. CSS:
+  a) flexbox
+  b) grid
+  c) BEM methodology
+  d) media queries
+3) SSAS preprocessor:
+  a) @mixin
+  b) cycle @for
+  c) @extend
+  d) placeholder
