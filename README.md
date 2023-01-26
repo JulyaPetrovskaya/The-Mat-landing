@@ -3,7 +3,6 @@ Its a landing page for The Metropolitan Museum of Art or The MET.
 
 Link to preview on github pages:
 - [DEMO LINK](https://julyapetrovskaya.github.io/The-Met-landing)
-)
 
 Technologies used:
 1. HTML markup;
